@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Program</title>
 </head>
-<body>
+<body><center>
     <?php 
-    echo "This is first phn program ";
+    echo "<h1>Welcome on this Page. </h1>";
     
     
     ?>
+    </center>
 </body>
 </html>
